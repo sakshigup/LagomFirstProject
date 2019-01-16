@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/greetings/greetings-impl/src/main/scala/org/knoldus/GreetingsServiceImpl.scala:7:7: class GreetingsServiceImpl needs to be abstract, since method greet in trait GreetingsService of type (name: String)com.lightbend.lagom.scaladsl.api.ServiceCall[akka.NotUsed,String] is not defined[0m
+[0m[[0m[31merror[0m] [0m[0mclass GreetingsServiceImpl extends GreetingsService {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/greetings/greetings-impl/src/main/scala/org/knoldus/GreetingsServiceImpl.scala:11:16: method f1 overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  override def f1(id: String): ServiceCall[NotUsed, String] = ServiceCall{[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

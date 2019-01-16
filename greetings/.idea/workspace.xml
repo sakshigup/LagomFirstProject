@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d408d067-04f5-4dc8-b552-34a048aad4af" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/greetings-api/target/" />
+    <ignored path="$PROJECT_DIR$/greetings-impl/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="greetings" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsLoader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsServiceImpl.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#20#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/resources/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/greetings-api/src/main/scala/org/knoldus/GreetingsService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#21#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/greetings-api/src/main/scala/org/knoldus/greetingsService.scala" />
+        <option value="$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/greetingsserviceimpl.scala" />
+        <option value="$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/greetingsLoader.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsLoader.scala" />
+        <option value="$PROJECT_DIR$/greetings-impl/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/greetings-api/src/main/scala/org/knoldus/GreetingsService.scala" />
+        <option value="$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsServiceImpl.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="715" />
+    <option name="y" value="24" />
+    <option name="width" value="651" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="knoldus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-api" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="greetings-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="knoldus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greetings" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547640614582" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lagom-scala-sbt" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="greetings" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="greetings [file:/home/knoldus/Downloads/greetings/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="greetings-api [file:/home/knoldus/Downloads/greetings/]" />
+                <option name="path" value="$PROJECT_DIR$/greetings-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="greetings-impl [file:/home/knoldus/Downloads/greetings/]" />
+                <option name="path" value="$PROJECT_DIR$/greetings-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="greetings-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="569034536" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3059441249" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Git/lagom-kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Git/lagom-kafka-consumer-only.g8" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/ScalaDir/Lagom/hello" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/lagom/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lagom-scala-sbt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d408d067-04f5-4dc8-b552-34a048aad4af" name="Default Changelist" comment="" />
+      <created>1547623516019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547623516019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32111552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32921174" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32921174" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16846986" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" visible="true" weight="0.023904383" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32921174" />
+      <window_info anchor="bottom" id="SBT Console" order="9" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32921174" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" weight="0.32988048" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/scala/org/knoldus/GreetingsLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greetings-api/src/main/scala/org/knoldus/GreetingsService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#21#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greetings-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
